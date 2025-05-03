@@ -628,7 +628,7 @@ ____________________
 final modifiers
 ____________________
 
-final is the modifier applicable for classes, methods and variables.
+final is the modifier applicable for everywhere (classes, methods and variables)
 
 final methods:
 _______________
