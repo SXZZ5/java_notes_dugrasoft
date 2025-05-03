@@ -1208,7 +1208,8 @@ public class Test{
 static modifier
 _________________
 
-static is modifier applicable for methods and variables but not for classes we can't declare top level class with static modifier but we can declare inner class as static(such type of inner classes are called static nested classes.) 
+static is modifier applicable for methods and variables (fields or attributes of class, not local variables) but not for classes we
+can't declare top level class with static modifier but we can declare inner class as static(such type of inner classes are called static nested classes.) 
 
 in the case of instance variables for every object a separate copy will be created but in the case of static variables a single copy will be created at class level and shared by every object of that class.
 
